@@ -45,4 +45,5 @@ Conclusion:
 The project demonstrated the importance of data analysis and visualization in understanding the performance of Google Ads campaigns and listing site activities. By leveraging Power BI's capabilities, the project successfully transformed raw data into an actionable and visually engaging dashboard, enabling stakeholders to gain insights and make data-driven decisions to enhance marketing strategies and business outcomes.
 
 Email:- Manvendrasinghthakur1@gmail.com
+
 LinkedIn:- https://www.linkedin.com/in/manvendra-singh-thakur-b369b0192/
